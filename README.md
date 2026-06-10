@@ -1,6 +1,6 @@
 # My Little Environment
 
-An IoT project on the Arduino UNO R4 WiFi board. It notifies the user if a measured signal data goes out of desired range chosen by the user. It features a web dashboard server, a Telegram bot, and Google Sheets integration.
+An IoT project on the Arduino UNO R4 WiFi board. It notifies the user if a measured sensor data goes out of desired range chosen by the user. It features a web dashboard server, a Telegram bot, and Google Sheets integration.
 
 ## What it does
 
